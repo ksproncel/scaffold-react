@@ -10,4 +10,4 @@ Clean React scaffold based on Create React APP
 
 # Install
 * to run this app you should:
-    Download the repository and run npm start in terminal.
+    Download the repository and run npm i, npm start in terminal.
